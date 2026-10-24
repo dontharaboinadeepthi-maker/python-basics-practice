@@ -36,4 +36,4 @@ Beginner Python practice programs covering user input, variables, and simple cal
 
 ## Author
 
-Your Name
+Deepthi
